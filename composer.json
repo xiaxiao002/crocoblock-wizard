@@ -1,0 +1,19 @@
+{
+	"name": "xiaxiao002/crocoblock-wizard",
+	"description": "",
+	"keywords": [
+		"wordpress",
+		"plugin"
+	],
+	"homepage":"https://github.com/xiaxiao002/crocoblock-wizard",
+	"authors": [
+		{
+		"name": "crocoblock-wizard",
+		"homepage":"https://eileenlue.com"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">5.6"
+	}
+}
